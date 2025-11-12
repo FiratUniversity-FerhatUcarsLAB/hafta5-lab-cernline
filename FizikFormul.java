@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: Ceren Çam
  * Ogrenci No: 250541073
- * Tarih: 13.11.2025
+ * Tarih: 12.11.2025
  * Aciklama: Görev 2 - Fizik Formül Asistanı
  * 
  * Bu program temel fizik formullerini kullanarak
